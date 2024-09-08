@@ -1,6 +1,5 @@
     return (
         <div className="container flex-col bg-blue-700 text-white text-justify mx-auto">
-
             <section className="flex flex-col lg:flex-row bg-blue-950">
                 <div>
                     <Image
