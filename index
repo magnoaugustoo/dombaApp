@@ -5,7 +5,7 @@
                     <Image
                     id="domba-image"
                     src="/dom_barreto.jpg"
-                    alt="Escola Estadual Dom Barreto"
+                    alt="Foto da Escola Estadual Dom Barreto"
                     width={900}
                     height={700}
                     className=""
